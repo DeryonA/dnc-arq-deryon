@@ -1,6 +1,5 @@
 import { createContext, useState, useEffect } from "react";
 import { getApiData } from "../Services/apiServices";
-import { Children } from "react";
 
 export const AppContext = createContext()
 
