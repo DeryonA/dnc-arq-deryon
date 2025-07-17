@@ -6,7 +6,7 @@ import LikeFilled from '../../assets/like-filled.svg'
 import Like from '../../assets/like.svg'
 
 //UTILS
-import { getApiData } from '../../Services/apiServices'
+import { getApiData } from '../../services/apiServices'
 
 //CONTEXT
 import { AppContext } from '../../contexts/AppContexts'
